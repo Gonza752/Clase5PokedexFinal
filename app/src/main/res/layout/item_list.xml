@@ -82,17 +82,5 @@
         app:layout_constraintBottom_toBottomOf="@+id/textViewDefensa"
         app:layout_constraintStart_toEndOf="@+id/textViewDefensa" />
 
-    <androidx.constraintlayout.widget.Barrier
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:barrierDirection="top"
-        tools:layout_editor_absoluteX="168dp"
-        tools:layout_editor_absoluteY="79dp" />
-
-    <androidx.constraintlayout.widget.Barrier
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:barrierDirection="left"
-        tools:layout_editor_absoluteY="45dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
